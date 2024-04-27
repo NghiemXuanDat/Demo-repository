@@ -1,3 +1,4 @@
 Lesson 4
 
 123
+(Add members) Vào phần settings -> collaborators -> add people
